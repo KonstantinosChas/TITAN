@@ -1,3 +1,7 @@
+These scripts were written by Konstantinos Chasapis and Andrew Smith, members of the Hudrodynamics group, 
+both while working in Imperial College London.
+(c) 2023 
+
 
 main programm:
 bblcam_dgns.m
